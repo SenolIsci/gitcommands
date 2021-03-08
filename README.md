@@ -3,7 +3,7 @@
 
 create gitbub repository named "docker-react"
 
-#on local project folder comman line
+#on local project folder command line
 
 echo "docker-react" >> README.md
 
